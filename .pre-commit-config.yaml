@@ -31,7 +31,7 @@ default_language_version:
   python: python3
 repos:
   - repo: https://github.com/oca/maintainer-tools
-    rev: f81a2cd8b3e7ba06d96a6fc8c944e6c7174faf7f
+    rev: bf9ecb9938b6a5deca0ff3d870fbd3f33341fded
     hooks:
       # update the NOT INSTALLABLE ADDONS section above
       - id: oca-update-pre-commit-excluded-addons
